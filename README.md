@@ -12,6 +12,4 @@ Kullanıcıdan sesli veya yazılı mesaj alır, sesli mesajları metne çevirip 
 ```bash
 pip install -r requirements.txt
 
-## Ekran Görüntüsü
-
 ![Uygulama Arayüzü](screenshots/interface-preview.png)
