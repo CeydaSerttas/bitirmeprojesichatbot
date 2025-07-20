@@ -1,0 +1,14 @@
+.env
+credentials.json
+bitirme-2024-*.json
+*.json
+
+__pycache__/
+*.pyc
+
+venv/
+.DS_Store
+__pycache__/
+.env
+node_modules/
+dist/
